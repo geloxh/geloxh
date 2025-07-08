@@ -23,8 +23,7 @@ Feel free to reach out if you’d like to connect.
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:aace70074@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angelo-charles-eron-blazado)  
-[![Portfolio](https://img.shields.io/badge/Resume-%2347A248.svg?style=flat&logo=resume&logoColor=white)](https://my-portfolio-sigma-lemon-61.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:aace70074@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angelo-charles-eron-blazado)  [![Portfolio](https://img.shields.io/badge/Resume-%2347A248.svg?style=flat&logo=resume&logoColor=white)](https://my-portfolio-sigma-lemon-61.vercel.app/)
 
 ## Currently Exploring
 
