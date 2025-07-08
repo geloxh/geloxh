@@ -38,7 +38,7 @@ Feel free to reach out if you’d like to connect.
 
 - Continuous learning and skill refinement
 - Building efficient, maintainable systems
-- Staying current with industry best practices
+- Staying updated with the relevant industry best practices in Tech
 - Sports (Basketball, Football, Sepak-Takraw, Swimming)
 - Likes to walk and do jogs.
 - Likes playing Music Instruments (Guitar, Keyboard Piano)
